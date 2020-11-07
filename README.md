@@ -17,7 +17,7 @@ File Handling
  * Provides a Starter Project with Flutter.
  * Provide a range of features that are common to large classes of projects.
  
-## ##  Prerequisite
+## Prerequisite
 *   You should know Dart.
 *   You should understand the basics of Android Studio.<br>
 *   Should have a basic understanding of IOS app development.
